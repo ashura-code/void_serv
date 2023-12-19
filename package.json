@@ -1,0 +1,15 @@
+{
+  "name": "void",
+  "version": "1.0.0",
+  "description": "A hq music streamer",
+  "main": "maybe.js",
+  "scripts": {
+    "start": "node maybe"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "url-encode-decode": "^1.0.0"
+  }
+}
